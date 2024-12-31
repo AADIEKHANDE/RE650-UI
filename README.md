@@ -8,6 +8,6 @@ Bike specifications and detailed views
 Responsive and intuitive layout
 Sleek, dark-themed design for a premium feel
 
-![Royal Enfield 650cc UI](re650-preview.png)  
+![Royal Enfield 650cc UI](2.png)  
 
 This is the UI design for Royal Enfield's 650cc bike lineup, showcasing models, features, and details.  
