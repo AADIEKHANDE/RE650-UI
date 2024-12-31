@@ -9,7 +9,7 @@ Bike specifications and detailed views,
 
 Responsive and intuitive layout, 
 
-Sleek, dark-themed design for a premium feel 
+Sleek design for a premium feel 
 
 ![Royal Enfield 650cc UI](2.png)  
 
