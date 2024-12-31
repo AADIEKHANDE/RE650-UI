@@ -3,10 +3,13 @@ This repository contains the UI design for showcasing Royal Enfield's 650cc bike
 
 Key Features:
 
-Visual representation of Royal Enfield 650cc models
-Bike specifications and detailed views
-Responsive and intuitive layout
-Sleek, dark-themed design for a premium feel
+Visual representation of Royal Enfield 650cc models, 
+
+Bike specifications and detailed views, 
+
+Responsive and intuitive layout, 
+
+Sleek, dark-themed design for a premium feel 
 
 ![Royal Enfield 650cc UI](2.png)  
 
